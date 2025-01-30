@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome
 description: This is my personal blog
 ---
 
@@ -12,4 +12,4 @@ description: This is my personal blog
 ![My Image](images/banner.png)
 
 Stay connected:
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/james-martinez96)
